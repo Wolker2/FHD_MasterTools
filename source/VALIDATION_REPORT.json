@@ -3,9 +3,11 @@
   "source_snapshot": "19.14.41",
   "recovered_configuration_files": 3,
   "recovered_graphics_and_item_source_files": 166,
-  "build_tools": 5,
-  "native_dll_source": "not present in recovered source snapshot",
-  "exact_match_to_release_19_14_42": false,
+  "tools": 5,
+  "native_dll_source": "not present",
+  "exact_match_to_release_19.14.42": false,
+  "standalone_build_pipeline": false,
   "manifest_conflict_line": "Conflict=DevKit",
-  "notes": "Source snapshot is retained as a recovered editable base; it is not represented as an exact source reproduction of release 19.14.42."
+  "tree_paths_checked_for_legacy_name": true,
+  "notes": "The source snapshot is a recovered editable base, not a byte-identical reproduction of release 19.14.42."
 }
