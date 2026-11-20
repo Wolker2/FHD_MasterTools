@@ -3,7 +3,7 @@
   "source_snapshot": "19.14.41",
   "recovered_configuration_files": 3,
   "recovered_graphics_and_item_source_files": 166,
-  "tools": 5,
+  "tools": 4,
   "native_dll_source": "not present",
   "exact_match_to_release_19.14.42": false,
   "standalone_build_pipeline": false,
