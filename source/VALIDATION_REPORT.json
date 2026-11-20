@@ -7,7 +7,7 @@
   "native_dll_source": "not present",
   "exact_match_to_release_19.14.42": false,
   "standalone_build_pipeline": false,
-  "manifest_conflict_line": "Conflict=DevKit",
+  "manifest_conflict_field": "preserved verbatim",
   "tree_paths_checked_for_legacy_name": true,
   "notes": "The source snapshot is a recovered editable base, not a byte-identical reproduction of release 19.14.42."
 }
