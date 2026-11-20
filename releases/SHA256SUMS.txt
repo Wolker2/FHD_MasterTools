@@ -1,0 +1,11 @@
+FHD_TestMod_v19.14.42_DLL_TEST.zip
+SHA256: f761c52fe80d27beabaa375543fbc7021fff8e2b035a83f260dda2e0a9f72469
+Entries: 172
+ModuleInfo.txt: Conflict=DevKit (preserved)
+
+FHD_TestMod_v19.14.42_NO_DLL_TEST.zip
+SHA256: 9e9fe3b28160e4c186ebc49cbc8df75cbe199d3e7efe757d51db53c4d3a971cf
+Entries: 171
+ModuleInfo.txt: Conflict=DevKit (preserved)
+
+Note: checksums refer to the original prepared ZIPs. The archives themselves are not yet stored in this Git repository.
