@@ -4,10 +4,10 @@ from zipfile import ZipFile
 from pathlib import Path
 import json,sys,hashlib
 root=Path(__file__).resolve().parents[1]
-sys.path.insert(0,str(root/'scripts'))
+sys.path.insert(0,str(root/'tools'))
 import dat_codec,gi_codec
 archive=root/'install/FHD_TestMod_v19.14.41.rar'
-source=root/'source';source.mkdir(exist_ok=True)
+source=root/'recovered';source.mkdir(exist_ok=True)
 records={};unrecovered=[]
 with ZipFile(archive) as z:
  for path in z.namelist():
