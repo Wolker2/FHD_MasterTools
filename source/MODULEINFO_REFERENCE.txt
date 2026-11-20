@@ -1,0 +1,8 @@
+Name=FHD_TestMod
+Section=FHD_MODS
+Author=Prolog_D
+Dependence=UtilityFunctionsPack
+Conflict=DevKit
+Priority=10000
+Section=FHD_MODS
+Languages=Rus
